@@ -22,6 +22,25 @@ Data Engineering · Machine Learning · LLMs · AI Engineering · Human-in-the-L
 
 I am interested in working-student positions and master’s thesis opportunities in data and AI.
 
+## Explore My Projects
+
+### Property Data Extraction and Validation
+Python extraction pipelines, structured data mapping, validation and asynchronous API processing developed during my FairVisit internship.
+
+[Read the project overview](projects/property-data-extraction.md)
+
+### Manufacturing Analytics and Power BI
+Turning operational data into interactive dashboards, consistent KPIs and automated reporting during my work at CT/BI Solutions.
+
+[Read the case study](projects/manufacturing-analytics.md)
+
+### Active Learning for Image Segmentation
+An ongoing academic project exploring how image-selection strategies could reduce expert annotation needs for turf-damage segmentation.
+
+[Read the project plan](projects/active-learning-segmentation.md)
+
+These pages describe my contributions and ongoing work. Company code and private datasets are not included.
+
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/sumanjali-punati)
