@@ -1,0 +1,10 @@
+csv_row,property_id,field,value,issue
+3,P002,property_id,P002,Duplicate property ID
+4,P003,name,,Required value is missing
+5,P004,capacity,-1,Capacity must be greater than zero
+6,P005,latitude,95.0000,Coordinate must be between -90 and 90
+7,P002,property_id,P002,Duplicate property ID
+8,P007,city,,Required value is missing
+9,P008,capacity,two,Capacity must be a whole number
+10,P009,longitude,200.0000,Coordinate must be between -180 and 180
+11,P010,latitude,,Required value is missing
