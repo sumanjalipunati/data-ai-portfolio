@@ -1,0 +1,11 @@
+property_id,name,city,capacity,latitude,longitude
+P001,Garden Apartment,Aachen,2,50.7753,6.0839
+P002,Riverside Studio,Cologne,2,50.9375,6.9603
+P003,,Berlin,4,52.5200,13.4050
+P004,Central Apartment,Hamburg,-1,53.5511,9.9937
+P005,Mountain View,Munich,3,95.0000,11.5820
+P002,Duplicate Studio,Cologne,2,50.9375,6.9603
+P007,Family Apartment,,5,48.1351,11.5820
+P008,City Loft,Düsseldorf,two,51.2277,6.7735
+P009,Quiet Retreat,Bonn,2,50.7374,200.0000
+P010,Park Apartment,Essen,2,,7.0123
