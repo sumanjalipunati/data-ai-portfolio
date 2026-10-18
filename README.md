@@ -41,6 +41,14 @@ An ongoing academic project exploring how image-selection strategies could reduc
 
 These pages describe my contributions and ongoing work. Company code and private datasets are not included.
 
+### Python Property Data Validation Demo
+
+A runnable Python example that checks synthetic property records for missing values, duplicate IDs, invalid capacities and coordinate ranges.
+
+Includes the source code, sample dataset, generated report and instructions. Manually verified against nine deliberate issues in ten sample records.
+
+[Explore the code and results](examples/property-data-validation/README.md)
+
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/sumanjali-punati)
